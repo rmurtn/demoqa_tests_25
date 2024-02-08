@@ -8,6 +8,6 @@ repositories {
 
 dependencies {
     testImplementation(
-            "com.codeborne:selenide:7.0.4'"
+            "com.codeborne:selenide:7.0.4"
     )
 }
