@@ -45,8 +45,5 @@ public class CSSXpathExamples {
         $(withText("llo, qa.g"));
         $x("//*[text()='Hello, qa.guru!']"); //wrong
         $x("//*[contains(text(),'Hello, qa.guru!')]");
-
-
-
     }
 }
